@@ -17,32 +17,39 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 ## Abstract
 While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
 
-## Game Setup Instructions
-1. Download this repository
-2. Go to https://playingcards.io/game/standard-deck to start a custom deck
-3. Enter the virtual card table
-4. Click the `Edit Table` icon in the green toolbard
-5. Select `Room Options`
-6. Select  `Import From File`
-7. Upload `what-could-go-worng-av.pcio`
-8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+## Revised Gameplay Instructions:
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+### Setup:  
+•	All players draw 5 white cards from their stack. Include wildcard and power cards in the deck to add strategic depth.  
+•	Use a spinner to select the first Card Czar randomly.  
+
+### Gameplay:  
+1.	The Card Czar Role:  
+•	The Card Czar draws a black prompt card and reads it aloud.  
+•	For themed rounds, the Card Czar announces the theme before drawing the prompt card.  
+2.	Player Response:  
+•	Players choose a white response card from their hand, considering the use of wildcard and power cards strategically. Power cards can be played alongside a response card for effects like swapping hands or peeking at the next prompt.  
+•	In speed rounds, players have a limited time to choose their card.  
+3.	Revealing Responses:  
+•	The Card Czar reads each response aloud. For creative storytelling or debate rounds, players briefly elaborate on or defend their chosen card.  
+4.	Selection and Scoring:  
+•	The Card Czar selects the winning card. The player whose card was chosen receives 1 point.  
+•	Bonus points are awarded for unanimous selections or if a player wins consecutive rounds.  
+•	Players can earn additional points during debate rounds by providing compelling arguments for their cards.  
+5.	Discussion and Further Exploration:  
+•	The group discusses the chosen card and its implications, awarding extra points for insightful or humorous contributions.  
+•	Achievements can be awarded during this time for fulfilling specific criteria (e.g., winning with a wildcard).  
+6.	Proceeding to the Next Round:  
+•	The role of Card Czar rotates. Each player draws a new white card, ensuring they always have 5 cards in their hand.  
+•	Power cards are replenished at the discretion of the game's rules to maintain balance.  
+
+### End of Game:  
+•	The game ends either after a predetermined number of rounds or when a player reaches a set number of points.  
+•	Players can share their favorite moments or cards from the game, reinforcing the social and reflective aspects of the gameplay.  
+
+
+
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)

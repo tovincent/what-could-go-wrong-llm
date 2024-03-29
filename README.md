@@ -17,32 +17,40 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 ## Abstract
 While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
 
-## Game Setup Instructions
-1. Download this repository
-2. Go to https://playingcards.io/game/standard-deck to start a custom deck
-3. Enter the virtual card table
-4. Click the `Edit Table` icon in the green toolbard
-5. Select `Room Options`
-6. Select  `Import From File`
-7. Upload `what-could-go-worng-av.pcio`
-8. Click `Edit Table` to exit editing mode and go into gameplay mode
+## Game Title: "What Could Go Wrong - Online Communities Edition"
+Platform:  
+The game will be hosted on a web platform or app, allowing players from different locations to participate simultaneously. The platform should support game rooms, chat for discussions, and a system for dealing with cards and points.
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+Game Setup:  
+•	Players join a game room, either publicly available or privately created by a host.
+•	Each player is dealt a hand of digital response cards.
+•	One player is chosen or volunteers to be the first "Moderator" (similar to the Card Czar in the physical game).
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+Game Components:  
+•	Prompt Cards: Digital cards that present scenarios or challenges related to managing or participating in online communities. These could range from dealing with a wave of negative comments to engaging a passive community.
+•	Response Cards: Digital cards offering potential solutions or strategies to the presented challenges. These responses would include actions like implementing new moderation tools, starting community events, or revising community guidelines.
+
+Gameplay Instructions:  
+1.	Round Start:  
+•	The Moderator draws a prompt card from the digital deck, which is displayed to all players.  
+•	Players choose one of their response cards that they believe best addresses the prompt, submitting it anonymously through the platform.  
+2.	Selection and Discussion:  
+•	The Moderator reviews the submitted response cards and selects the one they find most fitting or effective for the scenario.  
+•	The chosen response is revealed to all players, and the player who submitted it is awarded a point.  
+•	The platform then facilitates a discussion period, allowing players to discuss the scenario and chosen solution. This can be done via a chat function or voice chat, depending on the platform's capabilities.  
+4.	Scoring and Progression:  
+•	Players can be awarded additional points for contributing valuable insights during the discussion phase.  
+•	After the discussion, the role of Moderator rotates to the next player, and a new round begins.  
+•	The game continues for a predetermined number of rounds or until players decide to conclude.  
+
+Additional Features:  
+•	Real-time Interaction: The online platform can incorporate features like live polling or quick reactions to make discussions more interactive.  
+•	Educational Insights: After discussing a scenario, the game can provide real-world examples or expert tips related to the challenge addressed.  
+•	Customization: Allow players to create custom prompt and response cards, tailoring the game to specific types of online communities or focusing on particular issues of interest.  
+  
+Conclusion:  
+Adapting "What Could Go Wrong - LLM Edition" into an online game about online communities not only modernizes the gameplay but also expands its educational potential. By simulating real-world online community scenarios, players can develop a deeper understanding of digital communication dynamics, ethical considerations, and effective management strategies—all within an engaging and interactive environment.  
+
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
